@@ -3,20 +3,20 @@ import type {Config} from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
-  title: 'My Site',
-  tagline: 'Dinosaurs are cool',
+  title: 'Dodam Design System',
+  tagline: '도담도담 디자인 시스템',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://your-docusaurus-site.example.com',
+  url: 'https://dds.b1nd.com',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'Team-B1ND', // Usually your GitHub org/user name.
+  projectName: 'dds', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -40,13 +40,6 @@ const config: Config = {
           editUrl:
             'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
         },
-        blog: {
-          showReadingTime: true,
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
-        },
         theme: {
           customCss: './src/css/custom.css',
         },
@@ -58,22 +51,26 @@ const config: Config = {
     // Replace with your project's social card
     image: 'img/docusaurus-social-card.jpg',
     navbar: {
-      title: 'My Site',
+      title: 'DDS',
       logo: {
-        alt: 'My Site Logo',
-        src: 'img/logo.svg',
+        alt: 'DDS Logo',
+        src: 'img/DDSIcon.svg',
       },
       items: [
         {
           type: 'docSidebar',
           sidebarId: 'tutorialSidebar',
           position: 'left',
-          label: 'Tutorial',
+          label: 'Documentation',
         },
-        {to: '/blog', label: 'Blog', position: 'left'},
         {
-          href: 'https://github.com/facebook/docusaurus',
-          label: 'GitHub',
+          href: 'https://b1nd.com/',
+          label: '바인드팀',
+          position: 'right',
+        },
+        {
+          href: 'https://dodam.b1nd.com/',
+          label: '도담도담',
           position: 'right',
         },
       ],
@@ -82,46 +79,41 @@ const config: Config = {
       style: 'dark',
       links: [
         {
-          title: 'Docs',
+          title: '도담도담 오픈소스',
           items: [
             {
-              label: 'Tutorial',
-              to: '/docs/intro',
+              label: 'Android',
+              href: 'https://github.com/Team-B1ND/dodamdodam-android',
+            },
+            {
+              label: 'iOS',
+              href: 'https://github.com/Team-B1ND/dodamdodam-ios',
+            },
+            {
+              label: 'Web',
+              href: 'https://github.com/Team-B1ND/dodamdodam-web',
+            },
+            {
+              label: 'Server',
+              href: 'https://github.com/Team-B1ND/dodamdodam-server',
             },
           ],
         },
         {
-          title: 'Community',
+          title: 'DDS 오픈소스',
           items: [
             {
-              label: 'Stack Overflow',
-              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+              label: 'DDS Android',
+              href: 'https://github.com/Team-B1ND/dds-android',
             },
             {
-              label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
-            },
-            {
-              label: 'Twitter',
-              href: 'https://twitter.com/docusaurus',
-            },
-          ],
-        },
-        {
-          title: 'More',
-          items: [
-            {
-              label: 'Blog',
-              to: '/blog',
-            },
-            {
-              label: 'GitHub',
-              href: 'https://github.com/facebook/docusaurus',
+              label: 'DDS iOS',
+              href: 'https://github.com/Team-B1ND/dds-ios',
             },
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Team B1ND. Built with Docusaurus.`,
     },
     prism: {
       theme: prismThemes.github,
