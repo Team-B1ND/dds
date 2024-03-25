@@ -110,6 +110,10 @@ const config: Config = {
               label: 'DDS iOS',
               href: 'https://github.com/Team-B1ND/dds-ios',
             },
+            {
+              label: 'DDS Web',
+              href: 'https://github.com/Team-B1ND/dds-web',
+            },
           ],
         },
       ],

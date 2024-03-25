@@ -28,7 +28,7 @@ const FeatureList: FeatureItem[] = [
     ),
   },
   {
-    title: 'React(준비 중)',
+    title: 'React',
     image: '/img/ReactLogo.png',
     description: (
       <>
