@@ -1,0 +1,8 @@
+{
+  "label": "Bell",
+  "position": 17,
+  "link": {
+    "type": "generated-index",
+    "description": "Bell 컴포넌트는 알림과 관련된 정보를 나타낼 때 사용합니다."
+  }
+}

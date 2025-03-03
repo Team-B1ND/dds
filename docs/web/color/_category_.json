@@ -1,0 +1,8 @@
+{
+  "label": "Color",
+  "position": 4,
+  "link": {
+    "type": "generated-index",
+    "description": "색상을 위한 React용 DDS입니다."
+  }
+}

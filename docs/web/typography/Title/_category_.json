@@ -1,0 +1,8 @@
+{
+  "label": "Title",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "Title 컴포넌트는 텍스트의 제목을 나타냅니다."
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "label": "Gear",
+  "position": 13,
+  "link": {
+    "type": "generated-index",
+    "description": "Gear 컴포넌트는 설정과 관련된 정보를 나타낼때 사용합니다."
+  }
+}

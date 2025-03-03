@@ -1,0 +1,8 @@
+{
+  "label": "Menu",
+  "position": 8,
+  "link": {
+    "type": "generated-index",
+    "description": "Menu 컴포넌트는 메뉴 또는 목록과 관련된 정보를 나타낼때 사용합니다."
+  }
+}

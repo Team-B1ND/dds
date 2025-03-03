@@ -1,0 +1,8 @@
+{
+  "label": "Body",
+  "position": 4,
+  "link": {
+    "type": "generated-index",
+    "description": "Body 컴포넌트는 텍스트의 본문을 나타냅니다."
+  }
+}

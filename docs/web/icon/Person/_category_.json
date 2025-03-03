@@ -1,0 +1,8 @@
+{
+  "label": "Person",
+  "position": 23,
+  "link": {
+    "type": "generated-index",
+    "description": "Person 컴포넌트는 사람/프로필과 관련된 정보를 나타낼때 사용합니다."
+  }
+}

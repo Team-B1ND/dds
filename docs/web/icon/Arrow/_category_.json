@@ -1,0 +1,8 @@
+{
+  "label": "Arrow",
+  "position": 12,
+  "link": {
+    "type": "generated-index",
+    "description": "Arrow 컴포넌트는 화살표와 관련된 정보를 나타낼때 사용합니다."
+  }
+}

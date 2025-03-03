@@ -1,0 +1,8 @@
+{
+  "label": "Home",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "Home 컴포넌트는 메인화면 또는 첫화면을 나타낼때 사용합니다."
+  }
+}

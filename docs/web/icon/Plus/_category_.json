@@ -1,0 +1,8 @@
+{
+  "label": "Plus",
+  "position": 10,
+  "link": {
+    "type": "generated-index",
+    "description": "Plus 컴포넌트는 추가와 관련된 기능을 나타낼때 사용합니다."
+  }
+}

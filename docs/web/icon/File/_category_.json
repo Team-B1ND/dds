@@ -1,0 +1,8 @@
+{
+  "label": "File",
+  "position": 24,
+  "link": {
+    "type": "generated-index",
+    "description": "File 컴포넌트는 파일과 관련된 정보를 나타낼때 사용합니다."
+  }
+}

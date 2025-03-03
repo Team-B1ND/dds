@@ -1,0 +1,8 @@
+{
+  "label": "Label",
+  "position": 5,
+  "link": {
+    "type": "generated-index",
+    "description": "Label 컴포넌트는 텍스트의 레이블을 나타냅니다."
+  }
+}

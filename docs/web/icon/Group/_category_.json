@@ -1,0 +1,8 @@
+{
+  "label": "Gruop",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "Gruop 컴포넌트는 공동체와 관련된 정보를 나타낼때 사용합니다."
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "label": "Note",
+  "position": 14,
+  "link": {
+    "type": "generated-index",
+    "description": "Note 컴포넌트는 음표를 나타낼때 사용합니다."
+  }
+}
