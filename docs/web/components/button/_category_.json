@@ -1,0 +1,8 @@
+{
+  "label": "Button",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "버튼을 위한 React용 DDS입니다."
+  }
+}
