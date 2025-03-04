@@ -1,0 +1,8 @@
+{
+  "label": "DodamFilledButton",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "DodamFilledButton 컴포넌트는를 위한 React용 DDS입니다."
+  }
+}
