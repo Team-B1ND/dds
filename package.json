@@ -15,9 +15,9 @@
     "typecheck": "tsc"
   },
   "dependencies": {
-    "@b1nd/dds-web": "^0.1.36",
-    "@docusaurus/core": "3.1.1",
-    "@docusaurus/preset-classic": "3.1.1",
+    "@b1nd/dds-web": "^0.1.37",
+    "@docusaurus/core": "^3.7.0",
+    "@docusaurus/preset-classic": "^3.7.0",
     "@mdx-js/react": "^3.0.0",
     "clsx": "^2.0.0",
     "prism-react-renderer": "^2.3.0",
